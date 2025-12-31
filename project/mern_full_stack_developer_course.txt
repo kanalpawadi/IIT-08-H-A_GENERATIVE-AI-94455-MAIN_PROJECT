@@ -6,7 +6,6 @@ Duration : 40 hrs.
 Timings : 09:00 PM  To  11:00 PM
 Fees : Rs. 9100/-
 
-
 ===== SYLLABUS =====
 NODE
 Introduction
@@ -111,13 +110,11 @@ setting up environment
 testing react components
   CLICK TO REGISTER
 
-
 ===== PRE-REQUISITES: =====
 Object Oriented Programming Concepts
 Any RDBMS (SQL)
 Web Programming Fundamentals (HTML, CSS, JS)
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

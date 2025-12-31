@@ -6,13 +6,11 @@ Duration : 60 HRS
 Timings : 5:00 PM  To  8:00 PM
 Fees : Rs. 7000/- 5900 Early Bird Offer
 
-
 ===== TARGET AUDIENCE: =====
 Students
 Fresher's
 Working professionals
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 Algorithm Analysis:
@@ -66,11 +64,9 @@ Search algorithms: BFS, DFS, A* search
 Complexity analysis of Graph algorithms
 CLICK TO REGISTER
 
-
 ===== PRE-REQUISITES: =====
 Java Programming: Class & Object, Generics, Java collections (Array list). 
 CLICK TO REGISTER
-
 
 ===== OUTCOME: =====
 Understand common data structures (array, linked list, stack & queue) and their applications.
@@ -79,12 +75,10 @@ Implement data structures and algorithms using Java.
 Revise fundamentals for Data structure interviews.
 CLICK TO REGISTER
 
-
 ===== SOFTWARE SETUP: =====
 Any IDE & compiler for Java
 May use online editor
 CLICK TO REGISTER
-
 
 ===== IMPORTANT NOTES: =====
 Code along with trainer in live class.
@@ -93,7 +87,6 @@ Line by line implementation of data structures in Java.
 Corresponding C++ & Python codes will be shared.
 Discussion of frequently asked interview questions.
 CLICK TO REGISTER
-
 
 ===== STUDENT FEEDBACK: =====
 Excellent Teaching, concept clearance and doubt clearing. Thank you sir for taking this wonderful session. Before this session I have only theory knowledge but now I am comfortable in code and logic also.
@@ -114,17 +107,14 @@ Bilal Pathan
 Best approach to learn Ds is to learn through the basic and to learn basics is know basic .. the whole process by Nilesh sir made me understand Data structure in very simple way and to made an environment where we had an open discussion on of doubts without thinking whether to ask or not... Thanks a lot sir as beginner in data structure you have made me expert in ds what I need is now a paper work. So thanks a lot sir and thanks to vishal sir for helping me solve the basic problems.
   CLICK TO REGISTER
 
-
 ===== GETTING STARTED WITH DS... =====
 Course Highlight...
 Time Complexity...
 CLICK TO REGISTER
 
-
 ===== RECORDED VIDEOS: =====
 Recorded videos will be accessible for up to 7 Days from the date of upload.
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

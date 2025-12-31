@@ -6,11 +6,9 @@ Duration : 60 Hrs
 Timings : 9:00 PM  To  11:00 PM
 Fees : Rs. 17900/-
 
-
 ===== COURSE INTRODUCTION =====
 Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 Mastering AI Basics
@@ -202,11 +200,9 @@ Future directions of fine-tuning LLMs
 Hands-on: Fine-tune an LLM for a specific task
   CLICK TO REGISTER
 
-
 ===== PREREQUISITES: =====
 Beginners with basic python knowledge
 CLICK TO REGISTER
-
 
 ===== STUDENT FEEDBACK: =====
 Amit Kulkarni Sir is truly the best in this field. He explains the basics of technology, which is rare, and makes difficult concepts easy to understand. His syllabus is market-oriented, covering the latest trends.
@@ -220,7 +216,6 @@ Amit Kulkarni Sir is truly the best in this field. He explains the basics of tec
   This was a zero-to-hero Generative AI course. I can now make an impact in my work using AI. Amit Sir’s humility and support even after the course are unparalleled.
 — Chaitanya Takalikar, Software Engineer
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

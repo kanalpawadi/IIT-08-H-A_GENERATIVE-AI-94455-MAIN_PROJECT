@@ -6,12 +6,10 @@ Duration : 1 Month
 Timings : 11:00 AM  To  12:30 PM
 Fees : Rs. 3000/-
 
-
 ===== TARGET AUDIENCE: =====
 Students
 Fresher's
 CLICK TO REGISTER
-
 
 ===== COURSE CONTENTS: =====
 Aptitude, Reasoning, English
@@ -22,7 +20,6 @@ Data Communication Networking
 Big Data, Al
 Computer Architecture, Digital Electronics, and Microprocessors
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

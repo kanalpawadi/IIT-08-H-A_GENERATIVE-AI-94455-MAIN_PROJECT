@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -12,7 +11,7 @@ def fetch_course_data(url, output_file="course_data.txt"):
     driver = webdriver.Chrome(options=options)
     wait = WebDriverWait(driver, 15)
 
-    combined_text = ""   # <---- NEW
+    combined_text = ""   
 
     try:
         driver.get(url)
@@ -25,7 +24,7 @@ def fetch_course_data(url, output_file="course_data.txt"):
 
             basic = info.text.strip()
             combined_text += "BASIC INFO:\n" + basic + "\n\n"
-            file.write("===== BASIC INFO =====\n" + basic + "\n\n")
+            file.write("Basic Information ..\n" + basic + "\n\n")
 
             accordion_buttons = wait.until(
                 EC.presence_of_all_elements_located((
@@ -50,10 +49,10 @@ def fetch_course_data(url, output_file="course_data.txt"):
                 text = panel.text.strip() or "No data found"
 
                 combined_text += f"{title}:\n{text}\n\n"
-                file.write(f"===== {title.upper()} =====\n{text}\n\n")
+                file.write(f"{title.upper()}\n{text}\n\n")
 
     finally:
         driver.quit()
 
-    return combined_text        # <---- RETURN TEXT
+    return combined_text        
  

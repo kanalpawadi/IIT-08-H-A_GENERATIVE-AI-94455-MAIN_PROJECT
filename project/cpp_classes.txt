@@ -6,18 +6,15 @@ Duration : 60 Hrs
 Timings : 5:00 PM  To  8:00 PM
 Fees : Rs. 7000/- 5900 Early Bird Offer
 
-
 ===== TARGET AUDIENCE: =====
 Students
 Fresher's
 Working professionals 
 CLICK TO REGISTER
 
-
 ===== PRE-REQUISITES: =====
 C Programming
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 C++ Introduction
@@ -33,7 +30,6 @@ Virtual Function, Abstract Class & Interface
 STL
 FILE I/O
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time
