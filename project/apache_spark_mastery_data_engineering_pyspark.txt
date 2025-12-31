@@ -6,11 +6,9 @@ Duration : 50 hrs.
 Timings : 7:00 PM  To  9:00 PM
 Fees : Rs. 14900/-(Inc.18% GST)
 
-
 ===== TARGET AUDIENCE: =====
 Data Engineers, Python Developers, Freshers
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 Section 1: Spark Architecture & Internals
@@ -73,19 +71,16 @@ Section 8: Capstone Project
 - Domain Examples: IoT monitoring, retail analytics
   CLICK TO REGISTER
 
-
 ===== PREREQUISITES: =====
 1. Python: Language Fundamentals, Functions, Collections, Pandas, ...
 2. SQL: CRUD Operations, Group By, Joins, Analytical queries, …
 3.Good to have: Linux basics, Hadoop/Hive knowledge beneficial
 CLICK TO REGISTER
 
-
 ===== TOOLS & SETUP: =====
 - Local Installation: Spark 4.x, Java 11, Python 3.10  
 - Cloud: Databricks Community/Free Edition
 CLICK TO REGISTER
-
 
 ===== OUTCOME: =====
 Master PySpark DataFrames/SQL for batch & stream processing
@@ -95,7 +90,6 @@ Understand Apache Kafka and Integrate with Spark
 Hands-on implementation of capstone project
 Certification-ready skills
 CLICK TO REGISTER
-
 
 ===== IMPORTANT NOTES: =====
 1. Developer-Centric Focus:
@@ -113,11 +107,9 @@ CLICK TO REGISTER
 - All labs use local/standalone mode or Databricks Community Edition.
 CLICK TO REGISTER
 
-
 ===== VIDEO AVAILABILITY TILL DATE: =====
 17th Nov 25
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

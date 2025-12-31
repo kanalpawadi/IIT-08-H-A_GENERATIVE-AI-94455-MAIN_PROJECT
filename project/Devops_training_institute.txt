@@ -6,7 +6,6 @@ Duration : 80 Hrs
 Timings : 9:00 PM  To  11:00 PM
 Fees : Rs. 11100/-
 
-
 ===== SYLLABUS =====
 Week 1: Linux
 DevOps
@@ -91,7 +90,6 @@ Using Ansible with containers
 Modules and plugins
 CLICK TO REGISTER
 
-
 ===== PREREQUISITES =====
 Basic Linux administration
 Knowledge of any development stack
@@ -99,11 +97,9 @@ Knowledge of testing tools like Selenium and JUnit
 Knowledge of build tools like Ant/Gradle/Maven
 CLICK TO REGISTER
 
-
 ===== DIWALI VACATION BREAK: =====
 Diwali Holidays are scheduled from 17th October 2025 to 31st October 2025.
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

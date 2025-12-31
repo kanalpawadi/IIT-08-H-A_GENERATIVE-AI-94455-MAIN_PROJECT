@@ -6,17 +6,14 @@ Duration : 50 hrs.
 Timings : 8:00 AM  To  10:30 AM
 Fees : Rs. 8100/- 6800 Early Bird Offer
 
-
 ===== PREREQUISITE: =====
 Any programming language
 CLICK TO REGISTER
-
 
 ===== HIGHLIGHTS: =====
 Live hands-on approach
 Builds foundation for Machine Learning/Data science
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 Python Fundamentals and Environment Setup
@@ -137,7 +134,6 @@ Backend-oriented mini project using Python logic
 Emphasis on clean code and problem-solving
 CLICK TO REGISTER
 
-
 ===== STUDENT FEEDBACK: =====
 The course content was well-structured and covered all the essential topics needed to build a solid foundation in Python programming. What stood out the most for me was the clarity with which the  concepts were explained. Sir went above and beyond by covering additional topics that were incredibly valuable. I now feel much more confident in my Python skills, thanks to this course. 
 I can genuinely say it was one of the most enriching learning experiences I’ve had. I was referred by a colleague to join SUNBEAM, I wasn’t entirely sure what to expect initially, but from the very first session, it became clear that I was in the hands of an exceptional teacher. Sir has an extraordinary talent for simplifying even the most complex Python concepts, making them easy to grasp for all students. 
@@ -152,10 +148,8 @@ The quizzes at the end of each module were also a great way to test my knowledge
 Request the sunbeam management to please start such courses for Ex-CDAC students which helps the CDAC family to grow and show what the CDAC pupils can do with CDAC gurus showing us the way ahead. It would be needless to praise our CDAC guru’s knowledge. Teaching methodologies as doing classes from US at 4:30 am PST time I always had a smile on my face a kid like zeal to learn what Sir would bring to the table that day and by end of min 2:30 hrs of a lecture he would leave us in awe. I would say CDAC sunbeam is not an institutional at all, it more of a Gurukul where the pupils are lifelong connected to the Gurus here at Sunbeam like Nilesh Sir,(for motivating when I was about to quit CDAC coming from ECE background), Prashant Sir, Vijay Sir, Sameer Sir(had a magical experience when he taught us in 2011 Feb) , Sarang Sir(never thought that Software engineering subject could be fun and also be taught)
 CLICK TO REGISTER
 
-
 ===== RECORDED VIDEOS WILL BE ACCESSIBLE FOR UP TO ONE MONTH FROM THE DATE OF UPLOAD. =====
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time

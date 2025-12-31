@@ -6,7 +6,6 @@ Duration : 5 weeks
 Timings : 9:00 PM  To  11:00 PM
 Fees : Rs. INR 20000/- 12000/-(Inc.18% GST)
 
-
 ===== PREREQUISITE: =====
 - Basic to intermediate Python programming (loops, functions, lists, dictionaries, basics of classes)
 - Basic understanding of ML concepts (what a model, training, and loss mean)
@@ -15,7 +14,6 @@ Fees : Rs. INR 20000/- 12000/-(Inc.18% GST)
 - A laptop with 8 GB RAM (GPU recommended but not required)
 - Curiosity and willingness to learn how LLMs work internally (not just use APIs)
 CLICK TO REGISTER
-
 
 ===== SYLLABUS: =====
 Introduction to LLM
@@ -70,7 +68,6 @@ Use AWS cloud for deployment
 Automate the deployment using AWS DevOps tools
 CLICK TO REGISTER
 
-
 ===== OUTCOMES: =====
 Academic Outcomes
 Theoretical Understanding
@@ -90,7 +87,6 @@ Enhanced employability in roles related to AI research, machine learning enginee
 Ability to tackle complex problems in natural language processing and develop innovative solutions
 Research Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible.
 CLICK TO REGISTER
-
 
 ===== CAPSTONE PROJECT: =====
 Project Overview
@@ -138,14 +134,11 @@ User Interface:
 Web-based interface for interacting with the model (optional)
 CLICK TO REGISTER
 
-
 ===== VIDEO RECORDING WILL BE AVAILABLE TILL 05 JUNE 2026 ON PORTAL =====
 CLICK TO REGISTER
 
-
 ===== DREAM LLM — COURSE OVERVIEW =====
 CLICK TO REGISTER
-
 
 ===== BATCH SCHEDULE =====
 Sr.No Batch Code Start Date End Date Time
