@@ -89,27 +89,34 @@ with s.sidebar:
 
 
 # Initiating chromadb
-db = chromadb.PersistentClient(path = r"E:\SUNBEAM_INTERN\SUNBEAM_PROJECT\IIT-08-H-A_GENERATIVE-AI-94455-MAIN_PROJECT\Data_Scrapping\knowledge_base")
+db = chromadb.PersistentClient(path="D:\SUNBEAM_CHATBOT\IIT-08-H-A_GENERATIVE-AI-94455-MAIN_PROJECT\Data_Scrapping\knowledge_base")
 collection = db.get_or_create_collection("Sunbeam_Data")
 
 
 
+
 llm = init_chat_model(
-     model = "openai/gpt-oss-20b",
-     model_provider = "openai",
-     base_url = "https://api.groq.com/openai/v1",
-     api_key  = api_key
-)
+    model = "openai/gpt-oss-20b",
+    model_provider = "openai",
+    base_url = "https://api.groq.com/openai/v1",
+    api_key  = api_key
+) 
+ 
 
 
 
 # initiating embedding model
-embed_model = init_embeddings(
-    model= "text-embedding-nomic-embed-text-v1",
-    provider = "openai",
-    base_url = "http://127.0.0.1:1234/v1",
-    api_key = "not-needed",
-    check_embedding_ctx_length = False
+# embed_model = init_embeddings(
+#     model= "text-embedding-nomic-embed-text-v1",
+#     provider = "openai",
+#     base_url = "http://127.0.0.1:1234/v1",
+#     api_key = "not-needed",
+#     check_embedding_ctx_length = False
+# )
+# ADD
+from langchain_huggingface import HuggingFaceEmbeddings
+embed_model = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
 

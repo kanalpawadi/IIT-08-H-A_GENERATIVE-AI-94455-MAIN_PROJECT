@@ -7,6 +7,7 @@ from main import store_course_data
 
 import chromadb
 
+
 # initiating embedding model
 embed_model = init_embeddings(
     model= "text-embedding-nomic-embed-text-v1",
@@ -17,7 +18,10 @@ embed_model = init_embeddings(
 )
 
 # Initiating chromadb
-db = chromadb.PersistentClient(path = "./knowledge_base")
+# db = chromadb.PersistentClient(path = "./knowledge_base")
+import os
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "Data_Scrapping", "knowledge_base")
+db = chromadb.PersistentClient(path=DB_PATH)
 collection = db.get_or_create_collection("Sunbeam_Data")
 
 
